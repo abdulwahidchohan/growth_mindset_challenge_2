@@ -1,0 +1,8 @@
+streamlit
+requests
+streamlit-lottie
+fpdf
+pandas
+plotly
+numpy
+kaleido
